@@ -1,4 +1,4 @@
-# test_flutter_online
+# flutter design patterns
 
 A new Flutter project.
 
